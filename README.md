@@ -1,1 +1,1 @@
-# HDR-reconstruction-by-MATLAB
+# Panorama-Reconstruction-by-MATLAB
